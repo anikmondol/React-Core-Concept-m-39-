@@ -1,0 +1,13 @@
+.box{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid brown;
+    border-radius: 10px;
+}
+
+.frinedBox{
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid green;
+    border-radius: 10px;
+}
